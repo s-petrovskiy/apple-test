@@ -11,7 +11,7 @@ install SDL2:
 5. **rm -r SDL2-2.0.16.dmg**
 
 ## build project:
-Just open existing xcode project and click run. Application may ask for user's Documents folder access.
+Just open apple-test.xcodeproj project and click run. Application may ask for user's Documents folder access.
 
 ## test application controls:
 F  -- toggle fullscreen
